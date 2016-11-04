@@ -78,6 +78,7 @@ fetch = +refs/heads/*:refs/remotes/b2/*
 - 高阶命令
     - git remote/git remote -v查看远端信息
     - git fetch 从远程仓库下载新分支与数据,该命令执行完后需要执行git merge 远程分支到你所在的分支
+<<<<<<< HEAD
     - git push [alias] [branch]/ git pull [alias] [branch] 指定远端和分支
 - 命令手册
 
@@ -168,3 +169,6 @@ git grep -e '#define' --and -e SORT_DIRENT
 git gc
 git fsck
 ```
+=======
+    - 
+>>>>>>> 2a4b59e506ad7edd4ee218543d7d2aba6bc3ac5c
