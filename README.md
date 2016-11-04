@@ -3,7 +3,7 @@
 
 
 - 工作流程
-![image](http://www.phpxs.com/uploads/201509/22/14428898011.png)
+![image](/src/img/work_flow.png)
 - 基本概念
     - 工作区：目录
     - 暂存区：
