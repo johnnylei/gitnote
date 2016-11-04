@@ -12,6 +12,12 @@ test
 oooooo
 oo
 ddd
+oo
+ooo
+oo
+oo
+o
+
 ooooo
 zzz
 zzz
