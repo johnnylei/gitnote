@@ -5,4 +5,5 @@ oo
 ooo
 aaaaa
 dddcccccccda
-dfasdfafa
+dfasdfafa\
+test all:Wq
