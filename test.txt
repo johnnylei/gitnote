@@ -9,6 +9,10 @@ dfasdfafa\
 test all:Wq
 test 
 
+oooooo
+oo
+ddd
+ooooo
 zzz
 zzz
 zzz
