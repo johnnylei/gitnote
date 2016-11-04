@@ -169,6 +169,8 @@ git grep -e '#define' --and -e SORT_DIRENT
 git gc
 git fsck
 ```
-=======
-    - 
->>>>>>> 2a4b59e506ad7edd4ee218543d7d2aba6bc3ac5c
+
+>解决conflict的流程
+- git add ., git commit -m 'message', 这样之后，工作去的改变就会存入到缓存中去
+- git pull, 如果服务器这边有变动，就会生成需要你去meger的消息提醒，解决了conflict(git show <commit>,可以查看相关信息)
+- 之后，就可以Push上远端了
